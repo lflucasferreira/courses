@@ -1,3 +1,5 @@
+![Cover](https://summer.gwu.edu/sites/g/files/zaxdzs2206/f/styles/promo_slider_12_col/public/image/RegisterforCourses_Graphic_v3.jpg?itok=p_PWlpkk)
+
 # Courses
 This repository contains all the courses I have finished and all of those I want to take it.
 
@@ -5,7 +7,7 @@ This repository contains all the courses I have finished and all of those I want
 
 ## Data Science
 ### Machine Learning
-- [ ] [Machine Learning](https://github.com/lflucasferreira/courses/blob/master/ccna1.md)
+- [ ] [Machine Learning](https://github.com/lflucasferreira/courses/blob/master/machinelearning.md)
 
 ---
 
