@@ -5,14 +5,26 @@
 
 #### Week 1
 * ##### Introduction
-** ###### Videos
 > - [ ] Welcome to Machine Learning!
 > - [ ] Welcome
 > - [ ] What is Machine Learning?
 > - [ ] Supervised Learning
 > - [ ] Unsupervised Learning
 * ##### Linear Regression with One Variable
+> - [ ] Model Representation
+> - [ ] Cost Function
+> - [ ] Cost Function - Intuition I
+> - [ ] Cost Function - Intuition II
+> - [ ] Gradient Descent
+> - [ ] Gradient Descent Intuition
+> - [ ] Gradient Descent For Linear Regression
 * ##### Linear Algebra Review
+> - [ ] Matrices and Vectors
+> - [ ] Addition and Scalar Multiplication
+> - [ ] Matrix Vector Multiplication
+> - [ ] Matrix Matrix Multiplication
+> - [ ] Matrix Multiplication Properties
+> - [ ] Inverse and Transpose
 
     *Grade:* **pending**
     
