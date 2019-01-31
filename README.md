@@ -8,7 +8,7 @@ This repository contains all the courses I have finished and all of those I want
 
 ## Network
 ### CCNA
-- [x] [CCNA R&S: Introduction to Networks](https://github.com/lflucasferreira/courses/blob/master/ccna1.md)
+- [x] [CCNA R&S: Introduction to Networks](https://github.com/lflucasferreira/courses/blob/master/ccna1.md) | Grade: *96,72*
 - [ ] [CCNA R&S: Routing and Switching Essentials](https://github.com/lflucasferreira/courses/blob/master/ccna2.md)
 
 ## Web Framework
