@@ -5,7 +5,7 @@
 
 #### Week 1
 * ##### Introduction
-* ###### Videos
+** ###### Videos
 > - [ ] Welcome to Machine Learning!
 > - [ ] Welcome
 > - [ ] What is Machine Learning?
