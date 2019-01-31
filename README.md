@@ -2,9 +2,17 @@
 This repository contains all the courses I have finished and all of those I want to take it.
 
 ## Data Science
-### Machine Learning https://www.coursera.org/learn/machine-learning
+### Machine Learning
+- [ ] [Machine Learning](https://github.com/lflucasferreira/courses/blob/master/ccna1.md)
 
 
-## CCNA
-- [x] [CCNA R&S: Introduction to Networks](https://github.com/lflucasferreira/courses/ccna1.md)
-- [ ] [CCNA R&S: Routing and Switching Essentials](https://github.com/lflucasferreira/courses/ccna2.md)
+## Network
+### CCNA
+- [x] [CCNA R&S: Introduction to Networks](https://github.com/lflucasferreira/courses/blob/master/ccna1.md)
+- [ ] [CCNA R&S: Routing and Switching Essentials](https://github.com/lflucasferreira/courses/blob/master/ccna2.md)
+
+## Web Framework
+### Laravel
+- [x] [Laravel 5.7 From Scratch](https://laracasts.com)
+- [x] [Laravel Eloquent Techniques](https://laracasts.com)
+- [x] [Laravel Eloquent Relationships](https://laracasts.com)
