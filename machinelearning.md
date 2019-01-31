@@ -1,3 +1,5 @@
+![Stanford University](https://www.abaenglish.com/es/wp-content/uploads/sites/2/2018/01/Logo-university-of-stanford.png)
+
 # Machine Learning
 > This is a 55 hours course 100% online offered by Stanford University
 
@@ -25,10 +27,8 @@
 > - [ ] Matrix Matrix Multiplication
 > - [ ] Matrix Multiplication Properties
 > - [ ] Inverse and Transpose
-   
-```markdown
-*Grade:* **pending
-``` 
+
+*Grade:* **pending**
     
 ##### Week 2
 - [ ] Linear Regression with Multiple Variables
