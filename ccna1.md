@@ -5,9 +5,7 @@
 ## Syllabus
 
 ##### Chapter 0: Course Introduction
-- [ ] Section 0.0
-
-    *Grade:* **pending**
+- [x] Section 0.0
 
 ##### Chapter 1: Explore the Network
 - [x] Section 1.0
@@ -17,7 +15,7 @@
 - [x] Section 1.4
 - [x] Section 1.5
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 2: Configure a Network Operating System
 - [x] Section 2.0
@@ -26,7 +24,7 @@
 - [x] Section 2.3
 - [x] Section 2.4
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 3: Network Protocols and Communications
 - [x] Section 3.0
@@ -35,7 +33,7 @@
 - [x] Section 3.3
 - [x] Section 3.4
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 4: Network Access
 - [x] Section 4.0
@@ -45,7 +43,7 @@
 - [x] Section 4.4
 - [x] Section 4.5
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 5: Ethernet
 - [x] Section 5.0
@@ -54,7 +52,7 @@
 - [x] Section 5.3
 - [x] Section 5.4
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 6: Network Layer
 - [x] Section 6.0
@@ -64,7 +62,7 @@
 - [x] Section 6.4
 - [x] Section 6.5
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 7: IP Addressing
 - [x] Section 7.0
@@ -73,7 +71,7 @@
 - [x] Section 7.3
 - [x] Section 7.4
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 8: Subnetting IP Networks
 - [x] Section 8.0
@@ -82,7 +80,7 @@
 - [x] Section 8.3
 - [x] Section 8.4
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 9: Transport Layer
 - [x] Section 9.0
@@ -90,7 +88,7 @@
 - [x] Section 9.2
 - [x] Section 9.3
 
-    *Grade:* **pending**
+    *Grade:* **100**
 
 ##### Chapter 10: Application Layer
 - [x] Section 10.0
@@ -98,7 +96,7 @@
 - [x] Section 10.2
 - [x] Section 10.3
 
-    *Grade:* **pending**
+    *Grade:* **100**
     
 ##### Chapter 11: Build a Small Network
 - [x] Section 11.0
@@ -108,7 +106,12 @@
 - [x] Section 11.4
 - [x] Section 11.5
 
-    *Grade:* **pending**
-    
-----
-**Total Grade: pending**
+    *Grade:* **100**
+
+### Grades
+
+Practice Skill: **90**
+
+Final Exam: **98,2**
+
+Total Grade: **96,72**
