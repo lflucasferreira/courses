@@ -4,10 +4,10 @@
 
 ## Syllabus
 
-##### Chapter 0: Course Introduction
+#### Chapter 0: Course Introduction
 - [x] Section 0.0
 
-##### Chapter 1: Explore the Network
+#### Chapter 1: Explore the Network
 - [x] Section 1.0
 - [x] Section 1.1
 - [x] Section 1.2
@@ -17,7 +17,7 @@
 
     *Grade:* **100**
 
-##### Chapter 2: Configure a Network Operating System
+#### Chapter 2: Configure a Network Operating System
 - [x] Section 2.0
 - [x] Section 2.1
 - [x] Section 2.2
@@ -26,7 +26,7 @@
 
     *Grade:* **100**
 
-##### Chapter 3: Network Protocols and Communications
+#### Chapter 3: Network Protocols and Communications
 - [x] Section 3.0
 - [x] Section 3.1
 - [x] Section 3.2
@@ -35,7 +35,7 @@
 
     *Grade:* **100**
 
-##### Chapter 4: Network Access
+#### Chapter 4: Network Access
 - [x] Section 4.0
 - [x] Section 4.1
 - [x] Section 4.2
@@ -45,7 +45,7 @@
 
     *Grade:* **100**
 
-##### Chapter 5: Ethernet
+#### Chapter 5: Ethernet
 - [x] Section 5.0
 - [x] Section 5.1
 - [x] Section 5.2
@@ -54,7 +54,7 @@
 
     *Grade:* **100**
 
-##### Chapter 6: Network Layer
+#### Chapter 6: Network Layer
 - [x] Section 6.0
 - [x] Section 6.1
 - [x] Section 6.2
@@ -64,7 +64,7 @@
 
     *Grade:* **100**
 
-##### Chapter 7: IP Addressing
+#### Chapter 7: IP Addressing
 - [x] Section 7.0
 - [x] Section 7.1
 - [x] Section 7.2
@@ -73,7 +73,7 @@
 
     *Grade:* **100**
 
-##### Chapter 8: Subnetting IP Networks
+#### Chapter 8: Subnetting IP Networks
 - [x] Section 8.0
 - [x] Section 8.1
 - [x] Section 8.2
@@ -82,7 +82,7 @@
 
     *Grade:* **100**
 
-##### Chapter 9: Transport Layer
+#### Chapter 9: Transport Layer
 - [x] Section 9.0
 - [x] Section 9.1
 - [x] Section 9.2
@@ -90,7 +90,7 @@
 
     *Grade:* **100**
 
-##### Chapter 10: Application Layer
+#### Chapter 10: Application Layer
 - [x] Section 10.0
 - [x] Section 10.1
 - [x] Section 10.2
@@ -98,7 +98,7 @@
 
     *Grade:* **100**
     
-##### Chapter 11: Build a Small Network
+#### Chapter 11: Build a Small Network
 - [x] Section 11.0
 - [x] Section 11.1
 - [x] Section 11.2
