@@ -1,5 +1,4 @@
 # Machine Learning
-## 
 > This is a 55 hours course 100% online offered by Stanford University
 
 ## Syllabus
@@ -8,33 +7,67 @@
 - [ ] Introduction
 - [ ] Linear Regression with One Variable
 - [ ] Linear Algebra Review
+
+    *Grade:* **pending**
+    
 ##### Week 2
 - [ ] Linear Regression with Multiple Variables
 - [ ] Octave/Matlab Tutorial
+
+    *Grade:* **pending**
+    
 ##### Week 3
 - [ ] Logistic Regression
 - [ ] Regularization
+
+    *Grade:* **pending**
+    
 ##### Week 4
 - [ ] Neural Networks: Representation
+
+    *Grade:* **pending**
+    
 ##### Week 5
 - [ ] Neural Networks: Learning
+
+    *Grade:* **pending**
+    
 ##### Week 6
 - [ ] Advice for Applying Machine Learning
 - [ ] Machine Learning System Design
+
+    *Grade:* **pending**
+    
 ##### Week 7
 - [ ] Support Vector Machines
+
+    *Grade:* **pending**
+    
 ##### Week 8
 - [ ] Unsupervised Learning
 - [ ] Dimensionality Reduction
+
+    *Grade:* **pending**
+    
 ##### Week 9
 - [ ] Anomaly Detection
 - [ ] Recommender Systems
+
+    *Grade:* **pending**
+    
 ##### Week 10
 - [ ] Large Scale Machine Learning
+
+    *Grade:* **pending**
+    
 ##### Week 11
 - [ ] Application Example: Photo OCR
 
+    *Grade:* **pending**
+
+
 ----
+**Total Grade: pending**
 
 ## About this Course
 > Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
