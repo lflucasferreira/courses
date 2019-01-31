@@ -3,6 +3,8 @@
 # Courses
 This repository contains all the courses I have finished and all of those I want to take it.
 
+If you want to see all my projects, please visit this [repository](https://github.com/lflucasferreira/projects)
+
 ---
 
 ## Data Science
