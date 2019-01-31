@@ -5,11 +5,11 @@
 
 #### Week 1
 * ##### Introduction
-- [ ] Welcome to Machine Learning!1m
-- [ ] Welcome6m
-- [ ] What is Machine Learning?7m
-- [ ] Supervised Learning12m
-- [ ] Unsupervised Learning14m
+* - [ ] Welcome to Machine Learning!1m
+* - [ ] Welcome6m
+* - [ ] What is Machine Learning?7m
+* - [ ] Supervised Learning12m
+* - [ ] Unsupervised Learning14m
 * ##### Linear Regression with One Variable
 * ##### Linear Algebra Review
 
