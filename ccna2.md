@@ -1,12 +1,15 @@
 # CCNA
 ## CCNA R&S: Routing and Switching Essentials
 > This is the second part of the CCNA course
-### Chapter 0
+
+## Syllabus
+
+##### Chapter 0
 - [ ] Section 0.0
 
     *Grade:* **pending**
 
-### Chapter 1
+##### Chapter 1
 - [ ] Section 1.0
 - [ ] Section 1.1
 - [ ] Section 1.2
@@ -15,7 +18,7 @@
 
     *Grade:* **pending**
 
-### Chapter 2
+##### Chapter 2
 - [ ] Section 2.0
 - [ ] Section 2.1
 - [ ] Section 2.2
@@ -24,7 +27,7 @@
 
     *Grade:* **pending**
 
-### Chapter 3
+##### Chapter 3
 - [ ] Section 3.0
 - [ ] Section 3.1
 - [ ] Section 3.2
@@ -33,7 +36,7 @@
 
     *Grade:* **pending**
 
-### Chapter 4
+##### Chapter 4
 - [ ] Section 4.0
 - [ ] Section 4.1
 - [ ] Section 4.2
@@ -41,7 +44,7 @@
 
     *Grade:* **pending**
 
-### Chapter 5
+##### Chapter 5
 - [ ] Section 5.0
 - [ ] Section 5.1
 - [ ] Section 5.2
@@ -49,7 +52,7 @@
 
     *Grade:* **pending**
 
-### Chapter 6
+##### Chapter 6
 - [ ] Section 6.0
 - [ ] Section 6.1
 - [ ] Section 6.2
@@ -58,7 +61,7 @@
 
     *Grade:* **pending**
 
-### Chapter 7
+##### Chapter 7
 - [ ] Section 7.0
 - [ ] Section 7.1
 - [ ] Section 7.2
@@ -67,7 +70,7 @@
 
     *Grade:* **pending**
 
-### Chapter 8
+##### Chapter 8
 - [ ] Section 8.0
 - [ ] Section 8.1
 - [ ] Section 8.2
@@ -75,7 +78,7 @@
 
     *Grade:* **pending**
 
-### Chapter 9
+##### Chapter 9
 - [ ] Section 9.0
 - [ ] Section 9.1
 - [ ] Section 9.2
@@ -84,7 +87,7 @@
 
     *Grade:* **pending**
 
-### Chapter 10
+##### Chapter 10
 - [ ] Section 10.0
 - [ ] Section 10.1
 - [ ] Section 10.2
