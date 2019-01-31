@@ -25,8 +25,8 @@
 > - [ ] Matrix Matrix Multiplication
 > - [ ] Matrix Multiplication Properties
 > - [ ] Inverse and Transpose
-
-    *Grade:* **pending**
+   
+p=. *Grade:* **pending**
     
 ##### Week 2
 - [ ] Linear Regression with Multiple Variables
