@@ -96,5 +96,11 @@
 
     *Grade:* **pending**
     
-----
-**Total Grade: pending**
+---
+### Grades
+
+Practice Skill: **pending**
+
+Final Exam: **pending**
+
+Total Grade: **pending**
