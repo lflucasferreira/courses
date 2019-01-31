@@ -75,49 +75,133 @@
 
 #### Week 4
 * ##### Neural Networks: Representation
+> - [ ] Non-linear Hypotheses
+> - [ ] Neurons and the Brain
+> - [ ] Model Representation I
+> - [ ] Model Representation II
+> - [ ] Examples and Intuitions I
+> - [ ] Examples and Intuitions II
+> - [ ] Multiclass Classification
 
-    *Grade:* **pending**
-    
-##### Week 5
+*Grade:* **pending**
+
+---
+
+#### Week 5
 * ##### Neural Networks: Learning
+> - [ ] Cost Function
+> - [ ] Backpropagation Algorithm
+> - [ ] Backpropagation Intuition
+> - [ ] Implementation Note: Unrolling Parameters
+> - [ ] Gradient Checking
+> - [ ] Random Initialization
+> - [ ] Putting It Together
+> - [ ] Autonomous Driving
 
-    *Grade:* **pending**
+*Grade:* **pending**
+
+---
     
-##### Week 6
+#### Week 6
 * ##### Advice for Applying Machine Learning
+> - [ ] Deciding What to Try Next
+> - [ ] Evaluating a Hypothesis
+> - [ ] Model Selection and Train/Validation/Test Sets
+> - [ ] Diagnosing Bias vs. Variance
+> - [ ] Regularization and Bias/Variance
+> - [ ] Learning Curves
+> - [ ] Deciding What to Do Next Revisited
 * ##### Machine Learning System Design
+> - [ ] Prioritizing What to Work On
+> - [ ] Error Analysis
+> - [ ] Error Metrics for Skewed Classes
+> - [ ] Trading Off Precision and Recall
+> - [ ] Data For Machine Learning
 
-    *Grade:* **pending**
-    
-##### Week 7
+*Grade:* **pending**
+
+---
+
+#### Week 7
 * ##### Support Vector Machines
+> - [ ] Optimization Objective
+> - [ ] Large Margin Intuition
+> - [ ] Mathematics Behind Large Margin Classification
+> - [ ] Kernels I
+> - [ ] Kernels II
+> - [ ] Using An SVM
 
-    *Grade:* **pending**
-    
-##### Week 8
+*Grade:* **pending**
+
+---
+
+#### Week 8
 * ##### Unsupervised Learning
+> - [ ] Unsupervised Learning: Introduction
+> - [ ] K-Means Algorithm
+> - [ ] Optimization Objective
+> - [ ] Random Initialization
+> - [ ] Choosing the Number of Clusters
 * ##### Dimensionality Reduction
+> - [ ] Motivation I: Data Compression
+> - [ ] Motivation II: Visualization
+> - [ ] Principal Component Analysis Problem Formulation
+> - [ ] Principal Component Analysis Algorithm
+> - [ ] Reconstruction from Compressed Representation
+> - [ ] Choosing the Number of Principal Components
+> - [ ] Advice for Applying PCA
 
-    *Grade:* **pending**
-    
-##### Week 9
+*Grade:* **pending**
+
+---
+
+#### Week 9
 * ##### Anomaly Detection
+> - [ ] Problem Motivation
+> - [ ] Gaussian Distribution
+> - [ ] Algorithm
+> - [ ] Developing and Evaluating an Anomaly Detection System
+> - [ ] Anomaly Detection vs. Supervised Learning
+> - [ ] Choosing What Features to Use
+> - [ ] Multivariate Gaussian Distribution
+> - [ ] Anomaly Detection using the Multivariate Gaussian Distribution
 * ##### Recommender Systems
+> - [ ] Problem Formulation
+> - [ ] Content Based Recommendations
+> - [ ] Collaborative Filtering
+> - [ ] Collaborative Filtering Algorithm
+> - [ ] Vectorization: Low Rank Matrix Factorization
+> - [ ] Implementational Detail: Mean Normalization
 
-    *Grade:* **pending**
-    
-##### Week 10
+*Grade:* **pending**
+
+---
+ 
+#### Week 10
 * ##### Large Scale Machine Learning
+> - [ ] Learning With Large Datasets
+> - [ ] Stochastic Gradient Descent
+> - [ ] Mini-Batch Gradient Descent
+> - [ ] Stochastic Gradient Descent Convergence
+> - [ ] Online Learning
+> - [ ] Map Reduce and Data Parallelism
 
-    *Grade:* **pending**
-    
-##### Week 11
+*Grade:* **pending**
+
+---
+
+#### Week 11
 * ##### Application Example: Photo OCR
+> - [ ] Problem Description and Pipeline
+> - [ ] Sliding Windows
+> - [ ] Getting Lots of Data and Artificial Data
+> - [ ] Ceiling Analysis: What Part of the Pipeline to Work on Next
+> - [ ] Summary and Thank You
 
-    *Grade:* **pending**
+*Grade:* **pending**
 
+---
 
-----
 **Total Grade: pending**
 
 ## About this Course
