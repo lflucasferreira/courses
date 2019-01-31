@@ -29,59 +29,90 @@
 > - [ ] Inverse and Transpose
 
 *Grade:* **pending**
-    
-##### Week 2
-- [ ] Linear Regression with Multiple Variables
-- [ ] Octave/Matlab Tutorial
 
-    *Grade:* **pending**
-    
-##### Week 3
-- [ ] Logistic Regression
-- [ ] Regularization
+---
 
-    *Grade:* **pending**
-    
-##### Week 4
-- [ ] Neural Networks: Representation
+#### Week 2
+* ##### Linear Regression with Multiple Variables
+> - [ ] Multiple Features
+> - [ ] Gradient Descent for Multiple Variables
+> - [ ] Gradient Descent in Practice I - Feature Scaling
+> - [ ] Gradient Descent in Practice II - Learning Rate
+> - [ ] Features and Polynomial Regression
+> - [ ] Normal Equation1
+> - [ ] Normal Equation Noninvertibility
+> - [ ] Working on and Submitting Programming Assignments
+* ##### Octave/Matlab Tutorial
+> - [ ] Basic Operations
+> - [ ] Moving Data Around
+> - [ ] Computing on Data
+> - [ ] Plotting Data
+> - [ ] Control Statements: for, while, if statement
+> - [ ] Vectorization
+
+*Grade:* **pending**
+
+---
+
+#### Week 3
+* ##### Logistic Regression
+> - [ ] Classification
+> - [ ] Hypothesis Representation
+> - [ ] Decision Boundary
+> - [ ] Cost Function
+> - [ ] Simplified Cost Function and Gradient Descent
+> - [ ] Advanced Optimization
+> - [ ] Multiclass Classification: One-vs-all
+* ##### Regularization
+> - [ ] The Problem of Overfitting
+> - [ ] Cost Function
+> - [ ] Regularized Linear Regression
+> - [ ] Regularized Logistic Regression
+
+*Grade:* **pending**
+
+---
+
+#### Week 4
+* ##### Neural Networks: Representation
 
     *Grade:* **pending**
     
 ##### Week 5
-- [ ] Neural Networks: Learning
+* ##### Neural Networks: Learning
 
     *Grade:* **pending**
     
 ##### Week 6
-- [ ] Advice for Applying Machine Learning
-- [ ] Machine Learning System Design
+* ##### Advice for Applying Machine Learning
+* ##### Machine Learning System Design
 
     *Grade:* **pending**
     
 ##### Week 7
-- [ ] Support Vector Machines
+* ##### Support Vector Machines
 
     *Grade:* **pending**
     
 ##### Week 8
-- [ ] Unsupervised Learning
-- [ ] Dimensionality Reduction
+* ##### Unsupervised Learning
+* ##### Dimensionality Reduction
 
     *Grade:* **pending**
     
 ##### Week 9
-- [ ] Anomaly Detection
-- [ ] Recommender Systems
+* ##### Anomaly Detection
+* ##### Recommender Systems
 
     *Grade:* **pending**
     
 ##### Week 10
-- [ ] Large Scale Machine Learning
+* ##### Large Scale Machine Learning
 
     *Grade:* **pending**
     
 ##### Week 11
-- [ ] Application Example: Photo OCR
+* ##### Application Example: Photo OCR
 
     *Grade:* **pending**
 
