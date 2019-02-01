@@ -1,3 +1,6 @@
+![ssw](http://cleardimension.net/wp-content/uploads/2016/06/CISCObanner.png)
+![Routing](https://trainingbasket.in/wp-content/uploads/2017/09/CCNA-Training-Basket.jpg)
+
 # CCNA
 ## CCNA R&S: Routing and Switching Essentials
 > This is the second part of the CCNA course
