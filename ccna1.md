@@ -2,8 +2,10 @@
 
 ![teste](http://www.stscomps.com/cisco%20banner01.jpg)
 
+![ssw](http://cleardimension.net/wp-content/uploads/2016/06/CISCObanner.png)
+
 # CCNA
-## CCNA R&S: Routing and Switching Essentials
+## CCNA R&S: Introduction to Networks
 > This is the first part of the CCNA course
 
 > https://www.netacad.com
