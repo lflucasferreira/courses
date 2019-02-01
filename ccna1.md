@@ -1,8 +1,5 @@
-![Routing](https://trainingbasket.in/wp-content/uploads/2017/09/CCNA-Training-Basket.jpg)
-
-![teste](http://www.stscomps.com/cisco%20banner01.jpg)
-
 ![ssw](http://cleardimension.net/wp-content/uploads/2016/06/CISCObanner.png)
+![Routing](https://trainingbasket.in/wp-content/uploads/2017/09/CCNA-Training-Basket.jpg)
 
 # CCNA
 ## CCNA R&S: Introduction to Networks
