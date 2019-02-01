@@ -2,20 +2,28 @@
 ## CCNA R&S: Routing and Switching Essentials
 > This is the first part of the CCNA course
 
+> https://www.netacad.com
+
+*Instructor:* **Júlio Damasceno**
+
+---
+
 ## Syllabus
 
-#### Chapter 0: Course Introduction
-- [x] Section 0.0: Welcome to Introductions to Networks
+* #### Chapter 0: Course Introduction
+> - [x] Section 0.0: Welcome to Introductions to Networks
 
-#### Chapter 1: Explore the Network
-- [x] Section 1.0: Introduction
-- [x] Section 1.1: Globally Connected
-- [x] Section 1.2: LANs, WANs, and the Internet
-- [x] Section 1.3: The Network as a Platform
-- [x] Section 1.4: The Changing Network Environment
-- [x] Section 1.5: Summary
+* #### Chapter 1: Explore the Network
+> - [x] Section 1.0: Introduction
+> - [x] Section 1.1: Globally Connected
+> - [x] Section 1.2: LANs, WANs, and the Internet
+> - [x] Section 1.3: The Network as a Platform
+> - [x] Section 1.4: The Changing Network Environment
+> - [x] Section 1.5: Summary
 
 *Grade:* **100**
+
+---
 
 #### Chapter 2: Configure a Network Operating System
 - [x] Section 2.0: Introduction
