@@ -16,10 +16,13 @@
 
 ## Syllabus
 
+#### Week 0
+* ##### Welcome
+> - [x] Welcome to Machine Learning!
+
 #### Week 1
 * ##### Introduction
-> - [ ] Welcome to Machine Learning!
-> - [ ] Welcome
+> - [x] Welcome
 > - [ ] What is Machine Learning?
 > - [ ] Supervised Learning
 > - [ ] Unsupervised Learning
