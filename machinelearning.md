@@ -24,7 +24,7 @@
 * ##### Introduction
 > - [x] Welcome
 > - [x] What is Machine Learning?
-> - [ ] Supervised Learning
+> - [x] Supervised Learning
 > - [ ] Unsupervised Learning
 * ##### Linear Regression with One Variable
 > - [ ] Model Representation
