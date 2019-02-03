@@ -23,7 +23,7 @@
 #### Week 1
 * ##### Introduction
 > - [x] Welcome
-> - [ ] What is Machine Learning?
+> - [x] What is Machine Learning?
 > - [ ] Supervised Learning
 > - [ ] Unsupervised Learning
 * ##### Linear Regression with One Variable
