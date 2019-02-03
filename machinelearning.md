@@ -25,7 +25,7 @@
 > - [x] Welcome
 > - [x] What is Machine Learning?
 > - [x] Supervised Learning
-> - [ ] Unsupervised Learning
+> - [x] Unsupervised Learning
 * ##### Linear Regression with One Variable
 > - [ ] Model Representation
 > - [ ] Cost Function
