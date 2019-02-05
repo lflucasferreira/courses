@@ -27,8 +27,8 @@
 > - [x] Supervised Learning
 > - [x] Unsupervised Learning
 * ##### Linear Regression with One Variable
-> - [ ] Model Representation
-> - [ ] Cost Function
+> - [x] Model Representation
+> - [x] Cost Function
 > - [ ] Cost Function - Intuition I
 > - [ ] Cost Function - Intuition II
 > - [ ] Gradient Descent
