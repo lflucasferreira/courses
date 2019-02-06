@@ -29,8 +29,8 @@
 * ##### Linear Regression with One Variable
 > - [x] Model Representation
 > - [x] Cost Function
-> - [ ] Cost Function - Intuition I
-> - [ ] Cost Function - Intuition II
+> - [x] Cost Function - Intuition I
+> - [x] Cost Function - Intuition II
 > - [ ] Gradient Descent
 > - [ ] Gradient Descent Intuition
 > - [ ] Gradient Descent For Linear Regression
