@@ -31,8 +31,8 @@
 > - [x] Cost Function
 > - [x] Cost Function - Intuition I
 > - [x] Cost Function - Intuition II
-> - [ ] Gradient Descent
-> - [ ] Gradient Descent Intuition
+> - [x] Gradient Descent
+> - [x] Gradient Descent Intuition
 > - [ ] Gradient Descent For Linear Regression
 * ##### Linear Algebra Review
 > - [ ] Matrices and Vectors
